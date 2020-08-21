@@ -1,6 +1,6 @@
 # COVID-19_NLP
 
-The rise of Coronavirus across the globe is a concern for many. The aim of this analysis is to provide some insights to the journals being published about Coronavirus. Below you will find information on the most published journals and the common words amongst the journals. This is also a personal project in an attempt to practice my skills on data visualization and on NLP.
+The rise of Coronavirus across the globe is a concern for many. The aim of this analysis is to provide some insights to the journals being published about Coronavirus. In the Jupyter Notebook file, you will find information on the most published journals and the common words amongst the journals.
 <br>
 The dataset was downloaded from Kaggle.
 <br><br>
